@@ -23,6 +23,8 @@ body{
         font-size: 60px !important;
     }
 
+    
+
     .titulo-seccion {
         color: white;
         font-family: "Reno", Sans-serif;
@@ -34,7 +36,13 @@ body{
     }
 
 
-    
+    .titulo-card{
+        font-size: 50px !important;
+    }
+
+    .subtitulo-card{
+        font-size: 40px !important;
+    }
 
    
 }
