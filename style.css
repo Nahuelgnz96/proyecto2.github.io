@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient( rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(img/fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+@media(max-width:991px){
+
+    body{
+        width: 100%;
+    }
+
+    .logo{
+        font-size: 60px !important;
+    }
+
+    .link-navegador a{
+        font-size: 60px !important;
+    }
+
+    .link-navegador input{
+        font-size: 60px !important;
+    }
+
+    .titulo-seccion {
+        color: white;
+        font-family: "Reno", Sans-serif;
+        font-size: 65px;
+        font-weight: 750;
+        text-transform: uppercase;
+        line-height: 1.2em;
+        text-shadow: 5px 2px black;
+    }
+
+
+    
+
+   
+}
